@@ -29,6 +29,3 @@ https://kk.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8?FLID=1
 
 #EXTINF:-1 channel-name="Canale 21" tvg-logo="https://www.canale21.it/wp-content/uploads/2022/06/cropped-cropped-LOGO_canale21.png", Canale 21
 https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8?autoPlay=true
-
-#EXTINF:-1 channel-name="Televomero" tvg-logo="https://www.televomero.it/wp-content/uploads/2023/01/Televomero144.jpg", Televomero
-https://stream2.xdevel.com/video0s100-23/stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDQ6MzA6MDIgUE0maGFzaF92YWx1ZT1YWWVId2I1WmpuS1A3RVI1VSs4NmNnPT0mdmFsaWRtaW51dGVzPTIw
