@@ -29,3 +29,9 @@ https://kk.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8?FLID=1
 
 #EXTINF:-1 channel-name="Canale 21" tvg-logo="https://www.canale21.it/wp-content/uploads/2022/06/cropped-cropped-LOGO_canale21.png", Canale 21
 https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8?autoPlay=true
+
+#EXTINF:-1 channel-name="Regia 1", tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_gf_vip.png", GF Regia 1
+url = https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+
+#EXTINF:-1 channel-name="Regia 2", tvg-logo="https://www.grandefratello.mediaset.it/res/img/logo_gf_vip.png", GF Regia 2
+url = https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
