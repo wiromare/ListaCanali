@@ -9,14 +9,14 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
 #EXTINF:-1 channel-name="Rete 4" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzE0NDY0MTktMGZiY2Q4YjAtYWE5My00M2FkLTkxMjItMTFlYWI5MThhNjkyLnBuZw/editorial_image_channel_logo/80/80?r=4", Rete 4
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hr.mpd
 
-#EXTINF:-1 channel-name="Rai 1" tvg-logo="https://www.raiplay.it/lfe_apple/Rai1.png", Rai 1
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1793723921~exp=1793724071~acl=/*~hmac=0aa690ab5a42fb0406dd992c17d1b4d0f53de0b143e695687963ab36d2cf39b6
+#EXTINF:-1 channel-name="Rai 1" tvg-logo="https://camo.githubusercontent.com/97c0d3b0ff9678e2ac97bdfb60d70b7cdb1807354ad64714aa46b20693b23ed1/68747470733a2f2f692e696d6775722e636f6d2f4341783779526d2e706e67", Rai 1
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 
-#EXTINF:-1 channel-name="Rai 2" tvg-logo="https://www.raiplay.it/lfe_apple/Rai2.png", Rai 2
-https://raidue1-live.akamaized.net/hls/live/598310/raidue1/raidue1/playlist_ma.m3u8?hdnea=st=1793724066~exp=1793724216~acl=/*~hmac=0cd4210751e06b2e7fa10118a772e4cc6cdbbbfe6d4f4d8be3472ccd249667f0
+#EXTINF:-1 channel-name="Rai 2" tvg-logo="https://camo.githubusercontent.com/e566fe5f70c9634508b850629180ae8c6a08f164dd3b166dcab583fab00f66ed/68747470733a2f2f692e696d6775722e636f6d2f7a4130505463732e706e67", Rai 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 
-#EXTINF:-1 channel-name="Rai 3" tvg-logo="https://www.raiplay.it/lfe_apple/Rai3.png", Rai 3
-https://raitre1-push.cdn.netrw.it/rai/hls/live/rai3/rai3/playlist_ma.m3u8?hdnea=st=1793724174~exp=1793724474~acl=/*~hmac=6feb27f7707012d8e6be4daec069e0be69fc2dce78aebe58553ab0a3b70dcfe3
+#EXTINF:-1 channel-name="Rai 3" tvg-logo="https://camo.githubusercontent.com/d6b8d50e71dc3054feaa26cdbcb49096e9a60055924f259f66dcf79389362a60/68747470733a2f2f692e696d6775722e636f6d2f396b75514349692e706e67", Rai 3
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 
 #EXTINF:-1 channel-name="Canale 8" tvg-logo="https://www.canaleotto.it/wp-content/uploads/2024/06/favicon-canale8-100x100.png", Canale 8
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
