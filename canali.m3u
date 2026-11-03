@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 channel-name="Canale 5" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjU0NTkzNTgtNmFlNGJkYWQtMDhkYS00YjQyLTg2MjgtZTQ5MTU2YTBhZjdlLnBuZw/editorial_image_channel_logo/80/80?r=2", Canale 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 channel-name="Italia 1" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjUwMjI4ODctMTMzMzY2M2QtYzRjMi00MTE1LWE3ZDAtMTNjYzE2ZWVlNmM4LnBuZw/editorial_image_channel_logo/80/80?r=2", Italia 1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 channel-name="Rete 4" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjUwMjI4ODctMTMzMzY2M2QtYzRjMi00MTE1LWE3ZDAtMTNjYzE2ZWVlNmM4LnBuZw/editorial_image_channel_logo/80/80?r=2", Rete 4
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hr.mpd
+
 #EXTINF:-1 channel-name="Canale 8" tvg-logo="https://www.canaleotto.it/wp-content/uploads/2024/06/favicon-canale8-100x100.png", Canale 8
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
 
@@ -8,3 +17,6 @@ https://kk.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8?FLID=1
 
 #EXTINF:-1 channel-name="Canale 21" tvg-logo="https://www.canale21.it/wp-content/uploads/2022/06/cropped-cropped-LOGO_canale21.png", Canale 21
 https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8?autoPlay=true
+
+#EXTINF:-1 channel-name="Televomero" tvg-logo="view-source:https://www.televomero.it/wp-content/uploads/2023/01/Televomero144.jpg", Televomero
+https://stream2.xdevel.com/video0s100-23/stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDQ6MzA6MDIgUE0maGFzaF92YWx1ZT1YWWVId2I1WmpuS1A3RVI1VSs4NmNnPT0mdmFsaWRtaW51dGVzPTIw
