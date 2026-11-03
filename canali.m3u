@@ -1,13 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 channel-name="Canale 5" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjU0NTkzNTgtNmFlNGJkYWQtMDhkYS00YjQyLTg2MjgtZTQ5MTU2YTBhZjdlLnBuZw/editorial_image_channel_logo/80/80?r=2", Canale 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 channel-name="Italia 1" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjUwMjI4ODctMTMzMzY2M2QtYzRjMi00MTE1LWE3ZDAtMTNjYzE2ZWVlNmM4LnBuZw/editorial_image_channel_logo/80/80?r=2", Italia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 channel-name="Rete 4" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzE0NDY0MTktMGZiY2Q4YjAtYWE5My00M2FkLTkxMjItMTFlYWI5MThhNjkyLnBuZw/editorial_image_channel_logo/80/80?r=4", Rete 4
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hr.mpd
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/f4-clr.isml/index.m3u8
+
+#EXTINF:-1 channel-name="la 7" tvg-logo="https://camo.githubusercontent.com/c955b1572faece8047951d3fc6f5139153964a7859fc09723dd24fe87cb63c21/68747470733a2f2f692e696d6775722e636f6d2f4639306d7053612e706e67", La7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 channel-name="Rai 1" tvg-logo="https://camo.githubusercontent.com/97c0d3b0ff9678e2ac97bdfb60d70b7cdb1807354ad64714aa46b20693b23ed1/68747470733a2f2f692e696d6775722e636f6d2f4341783779526d2e706e67", Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
