@@ -13,13 +13,13 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/f4-clr.isml/index.m3u8
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 channel-name="Rai 1" tvg-logo="https://camo.githubusercontent.com/97c0d3b0ff9678e2ac97bdfb60d70b7cdb1807354ad64714aa46b20693b23ed1/68747470733a2f2f692e696d6775722e636f6d2f4341783779526d2e706e67", Rai 1
-https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 channel-name="Rai 2" tvg-logo="https://camo.githubusercontent.com/e566fe5f70c9634508b850629180ae8c6a08f164dd3b166dcab583fab00f66ed/68747470733a2f2f692e696d6775722e636f6d2f7a4130505463732e706e67", Rai 2
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 channel-name="Rai 3" tvg-logo="https://camo.githubusercontent.com/d6b8d50e71dc3054feaa26cdbcb49096e9a60055924f259f66dcf79389362a60/68747470733a2f2f692e696d6775722e636f6d2f396b75514349692e706e67", Rai 3
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 channel-name="Canale 8" tvg-logo="https://www.canaleotto.it/wp-content/uploads/2024/06/favicon-canale8-100x100.png", Canale 8
 https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
@@ -30,5 +30,5 @@ https://kk.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8?FLID=1
 #EXTINF:-1 channel-name="Canale 21" tvg-logo="https://www.canale21.it/wp-content/uploads/2022/06/cropped-cropped-LOGO_canale21.png", Canale 21
 https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8?autoPlay=true
 
-#EXTINF:-1 channel-name="Televomero" tvg-logo="view-source:https://www.televomero.it/wp-content/uploads/2023/01/Televomero144.jpg", Televomero
+#EXTINF:-1 channel-name="Televomero" tvg-logo="https://www.televomero.it/wp-content/uploads/2023/01/Televomero144.jpg", Televomero
 https://stream2.xdevel.com/video0s100-23/stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDQ6MzA6MDIgUE0maGFzaF92YWx1ZT1YWWVId2I1WmpuS1A3RVI1VSs4NmNnPT0mdmFsaWRtaW51dGVzPTIw
